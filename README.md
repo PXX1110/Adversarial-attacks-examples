@@ -1,8 +1,9 @@
 # Adversarial-attacks-examples
-整理一下github中现有的对抗样本攻击。对不同的分类标准加注了说明。
-持续完善中。。。
-If it helps you, please give me a star :)
-总结的非常好的：
+整理一下github中现有的对抗样本攻击。对不同的分类标准加注了说明。持续完善中。。。
+
+
+总结性的：
+
 1、Pytorch集成库(2014年以来)：
 https://github.com/Harry24k/adversarial-attacks-pytorch
 
